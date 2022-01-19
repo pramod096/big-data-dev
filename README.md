@@ -1,5 +1,9 @@
 # Pramod Reddy Gonegari
 
+<p align="center">
+  <img src="images/Pramod_1.JPG" alt="Pramod" height="300" width="230"/>
+</p>
+
 ## Current: 
 - I am a Computer Science Graduate Student and this is my final semester.
 
